@@ -1,6 +1,7 @@
 User Login System
 Overview
 A simple user login system built with HTML, CSS, Bootstrap, and JavaScript. It features login, logout, and registration functionality, designed to provide a smooth and responsive user experience for web applications.
+-------------
 
 Features
 - User login functionality
@@ -8,6 +9,7 @@ Features
 - User logout functionality
 - Responsive design (using Bootstrap)
 - Clean and intuitive user interface
+------------
 
 Installation
 Clone this repository:
@@ -17,6 +19,7 @@ Navigate to the project folder:
 cd project-name
 
 Open index.html in your browser to view the project.
+---------
 
 Technologies Used:
 *HTML – For the basic structure of the web pages
